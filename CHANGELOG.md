@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [2.1.0] - 29th of January 2026
+
+### Changed
+- Drop support for Python3.9 and PyPy3.10, add support for Python3.14
+- Updated pylintrc with the newest options
+- 2026 maintenance
+
 ## [2.0.0] - 26th of June 2025
 
 ### Added
@@ -59,7 +66,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - Initial release.
 
-[Unreleased]: https://github.com/Syndace/python-twomemo/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/Syndace/python-twomemo/compare/v2.1.0...HEAD
+[2.2.0]: https://github.com/Syndace/python-twomemo/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/Syndace/python-twomemo/compare/v1.2.0...v2.0.0
 [1.2.0]: https://github.com/Syndace/python-twomemo/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/Syndace/python-twomemo/compare/v1.0.4...v1.1.0
