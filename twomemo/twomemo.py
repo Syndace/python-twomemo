@@ -2,8 +2,7 @@ from __future__ import annotations
 
 import base64
 import secrets
-from typing import Dict, Optional, Tuple, cast
-from typing_extensions import Final
+from typing import Dict, Final, Optional, Tuple, cast
 
 import doubleratchet
 from doubleratchet.recommended import (

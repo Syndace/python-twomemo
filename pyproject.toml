@@ -20,7 +20,7 @@ dependencies = [
     "X3DH>=1.2.0,<2",
     "XEdDSA>=1.0.0,<2",
     "protobuf>=3.20.3",
-    "typing-extensions>=4.3.0"
+    "typing-extensions>=4.3.0; python_version < '3.11'"
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
